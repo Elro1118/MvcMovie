@@ -29,3 +29,4 @@ c:\home\sdg\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.dll
 c:\home\sdg\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.pdb
 C:\home\sdg\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.csproj.CopyComplete
 c:\home\sdg\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
+c:\home\sdg\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
